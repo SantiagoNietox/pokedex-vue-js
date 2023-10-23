@@ -1,24 +1,17 @@
-# 04-pokemon-game
+# pokemon-game
 
-## Project setup
+## Paso 1
 ```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
+npm install
 ```
 
-### Compiles and minifies for production
+### Paso 2
 ```
-yarn build
-```
-
-### Run your unit tests
-```
-yarn test:unit
+npm update
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Paso 3
+```
+npm run serve
+```
+
